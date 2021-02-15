@@ -1,0 +1,42 @@
+.speech{
+font-family: Text, monospace;
+font-size: xx-large ;
+color: black;
+
+
+}
+
+.stage-direction{
+font-family:Lucida, cursive;
+font-size: xx-large;
+color: black;
+background-color:lightyellow;
+
+}
+.stage-direction:hover{
+background-color: mediumseagreen;
+color: navy;
+}
+
+.name{
+font-family: Courier, Monospace;
+font-size: xx-large;
+color: black;
+
+
+}
+
+.bertram{
+color: orchid;
+}
+
+.countess{
+color: purple;
+
+}
+.lafue{
+color: rebeccapurple;
+
+}
+
+
