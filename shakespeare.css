@@ -47,5 +47,10 @@ table{
     margin: 11px;
 }
 
+.name:hover {
+     text-shadow : 5px 5px 5px yellowgreen ; 
+      border :green ;
+      border : groove ;
+    } 
 
 
