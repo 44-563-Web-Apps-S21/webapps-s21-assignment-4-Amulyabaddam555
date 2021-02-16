@@ -39,5 +39,13 @@ color: rebeccapurple;
 
 }
 
+table{
+    border : 1px dashed black;
+    color :blueviolet;
+    text-align: left;
+    padding: 11px;
+    margin: 11px;
+}
+
 
 
