@@ -47,10 +47,36 @@ table{
     margin: 11px;
 }
 
+table, th, td {
+  border: 3px groove;
+}
+
+tr:nth-child(even) {
+  background-color: aqua;
+}
+
 .name:hover {
      text-shadow : 5px 5px 5px yellowgreen ; 
       border :green ;
       border : groove ;
     } 
 
+    ul.navbar-horizontal {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      }
+  ul.navbar-horizontal li {
+      float:left; 
+      color:#000;
+      background-color:lightgrey;
+      }
+  ul.navbar-horizontal a {
+      display:block;
+      padding:8px;
+  }
+  ul.navbar-horizontal a:hover {
+  background-color: #555;
+  color:white;
+  }
 
